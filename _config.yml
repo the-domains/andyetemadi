@@ -1,0 +1,28 @@
+name: andyetemadi
+favicon: null
+layout_spectrum: 0.7017483892850578
+typography_spectrum: 0.3678902357351035
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.23902664543129504
+  lightness: 0.5177210678812116
+  saturation: 0.4753959213849157
+  rhythmicContrast: 0.3803724814206362
+purpose: []
